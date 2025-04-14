@@ -40,6 +40,8 @@ Os dados apresentados são fictícios e utilizados apenas para fins demonstrativ
 # Como utilizar
 Clone o repositório:
 https://github.com/IgorEditilioes/Analise-de-Indicadores-de-desempenho
+Atenção! Ao roda o codigo certifique-se de passar o caminho do arquivo .csv que seja utilizar para o metodo
+gerar quadrimestre e informar qual o quadimestre
 
 Instale as dependências:
 pip install pandas matplotlib seaborn numpy
